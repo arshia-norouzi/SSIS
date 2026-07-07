@@ -39,7 +39,7 @@ An end-to-end ETL project that demonstrates the design and implementation of a D
 
 **Highlights**
 
-* Star Schema Design
+* Snowflake Schema Design
 * ETL Pipeline Development
 * Dimension & Fact Table Loading
 * Data Cleansing & Transformation
@@ -53,7 +53,7 @@ An end-to-end ETL project that demonstrates the design and implementation of a D
 
 * ETL Development
 * Data Warehouse Design
-* Star Schema Modeling
+* Snowflake Schema Design
 * Data Transformation
 * Lookup Transformations
 * SQL Server Integration Services
