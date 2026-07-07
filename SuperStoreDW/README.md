@@ -133,7 +133,7 @@ Run the Dimension packages first, then execute the FactOrder package.
 
 - ETL Development using SSIS
 - Data Warehouse Design
-- Star Schema Modeling
+- Snowflake Schema Modeling
 - Dimension & Fact Table Loading
 - SQL Server Integration Services
 - Lookup Transformations
