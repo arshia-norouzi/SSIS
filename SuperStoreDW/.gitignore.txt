@@ -1,0 +1,34 @@
+# ==========================
+# Visual Studio
+# ==========================
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# SSIS
+*.dtproj.user
+*.ispac
+
+# Visual Studio indexes
+*.vsidx
+
+# Document Layout
+DocumentLayout.json
+DocumentLayout.backup.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+
+# Windows
+Thumbs.db
+Desktop.ini
