@@ -8,7 +8,7 @@ This project demonstrates the complete ETL process, including:
 
 - Extracting data from the SuperStore source database
 - Transforming and cleansing data
-- Loading data into a Star Schema Data Warehouse
+- Loading data into a Snowflake Schema Data Warehouse
 - Building Dimension and Fact tables using SSIS packages
 
 ---
@@ -47,7 +47,7 @@ SSIS/
 
 ## ⭐ Data Warehouse Schema
 
-The Data Warehouse is designed using a **Star Schema**.
+The Data Warehouse is designed using a **Snowflake Schema Design**.
 
 ### Dimension Tables
 
@@ -120,7 +120,7 @@ Run the Dimension packages first, then execute the FactOrder package.
 ## 📸 Project Screenshots
 
 - Architecture Diagram
-- Star Schema
+- Snowflake Schema Design
 - Control Flow
 - Data Flow
 - SQL Results
